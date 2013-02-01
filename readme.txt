@@ -7,6 +7,8 @@
 -- instantly package your source into a .love file and execu-
 -- te it for you.
 -------------------------------------------------------------
+-- Uses 7z standalone command-line version to handle file ZIP
+-------------------------------------------------------------
 -- Build manager also allows you to keep track of your builds
 -- Just open the BuildManifest file, you can view your build
 -- history from there. Including build number, dates and pro-
