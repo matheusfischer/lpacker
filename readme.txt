@@ -1,0 +1,18 @@
+-------------------------------------------------------------
+-- LPacker
+-------------------------------------------------------------
+-- Build by Matheus Fischer, for LÖVE2d Community.
+-------------------------------------------------------------
+-- Put your files in "Source" folder and hit Build.bat, it'll
+-- instantly package your source into a .love file and execu-
+-- te it for you.
+-------------------------------------------------------------
+-- Build manager also allows you to keep track of your builds
+-- Just open the BuildManifest file, you can view your build
+-- history from there. Including build number, dates and pro-
+-- file.
+-------------------------------------------------------------
+-- For people with trust issues, just look at the code source
+-- or check out the virus scan I performed:
+-- http://bit.ly/XqIVMo
+-------------------------------------------------------------
