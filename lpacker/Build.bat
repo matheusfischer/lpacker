@@ -13,8 +13,7 @@ mkdir %BuildDir%
 
 .\Bin\7za.exe a -tzip %BuildPath% %BuildSource% -r
 
-explorer %BuildDir%
-start %BuildPath% --console
+start %BuildPath%
 
 echo %BuildNo% > .\Builds\BuildNo
 echo [%BuildDate% %BuildTime%] Build No. %BuildNo% completed using [%BuildProfile%] >> .\Builds\BuildManifest
